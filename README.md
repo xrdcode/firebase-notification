@@ -12,6 +12,6 @@ Pada contoh ini, silahkan setup firebase menggunakan console masing-masing. Kemu
 4. Buat FirebaseIDService extend FirebaseInstanceIdService
 5. Core send notification ada di MessagingService.sendNotification();
 
-####How to Use :
+## How to Use :
 `MessagingService.sendNotification(notifBody, notifTitle, Topic, Context);`
 
